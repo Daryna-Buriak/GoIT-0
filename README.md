@@ -1,2 +1,3 @@
 # GoIT-0
-Pre-courses GitHub familiarization
+
+Pre-courses GitHub familiarization.
